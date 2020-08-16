@@ -1,3 +1,5 @@
+请求您删除部分侵权代码！请您尽快联系我，电话/微信：17512549214 邮箱：2259461527@qq.com
+
 [![](https://img.shields.io/github/v/tag/jiejietop/mqttclient?color=brightgreen&label=version)](https://github.com/jiejieTop/mqttclient/releases)
 [![license](https://img.shields.io/badge/license-Apache-blue.svg)](https://github.com/jiejieTop/mqttclient/blob/master/LICENSE)
 ![](https://img.shields.io/badge/platform-Linux|Windows|Mac|Embedded-orange.svg)
